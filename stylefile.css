@@ -1,0 +1,297 @@
+*{
+  box-sizing: border-box;
+} 
+
+body{
+font-family: 'Merriweather Sans', sans-serif;
+color: black;
+margin: 0px
+}
+
+.adeel {
+border-radius: 950px;
+
+max-height: 250px;
+max-width: 300px;
+text-align: center;
+margin-left:300px;
+
+}
+
+p {
+  font-size: 18px;
+  text-align: center;
+  
+}
+
+.number1 {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-image: url('pic5.jpg');
+  background-size: cover;
+}
+
+.small-divider-section-1 {
+  width: 75px;
+  height: 2px;
+  background: orange;
+  margin: 40px auto 0;
+}
+
+
+div.topline-section1{
+   color: white;
+   text-align: center;
+ }
+
+div.mainline-section1{
+    width: 550px;
+    padding-bottom: 0.1px;
+    padding-top: 0.1px;
+    border: 2px solid white;
+    margin: 65px auto;
+    color: white;
+    text-align: center;
+    border-radius: 2px;
+    font-size: 25px;
+}
+
+
+.number2{
+ background: #white;
+padding-top: 100px;
+  padding-bottom: 100px; 
+}
+
+
+.small-divider-section-2 {
+  width: 75px;
+  height: 2px;
+  background: orange;
+  margin: 40px auto 0;
+  margin-bottom: 50px;
+}
+
+
+
+div.meetme-section2{
+  background-color: #black;
+  text-align: center; 
+  width: 100%;
+  margin: auto: ;
+  font-size: 15px;
+  color: black;
+  font-size: 20px;
+}
+div.meet-me {
+  margin-top: 30px;
+}
+
+
+div.under-meet-me{
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.number3{
+   background: #6A6E71;
+   padding-top: 50px;
+   padding-bottom: 50px;
+   text-transform: capitalize;
+   background-image: url('pic1.jpg');
+   background-size: cover; 
+}
+
+
+div.mainline-section3{
+    
+    width: 450px;
+    padding-bottom: 0.1px;
+    padding-top: 0.1px;
+    border: 1px solid white;
+    margin: 10  px;
+    color: white;
+    text-align: center;
+    float: center;
+    border-radius: 2px;
+    margin-left: 34.5%;
+    font-size: 12px;
+  }
+
+.number4{
+background: white;
+padding-top: 80px;
+padding-bottom: 100px; 
+}
+
+.small-divider-section-4 {
+  width: 75px;
+  height: 2px;
+  background: orange;
+  margin: 30px auto 0;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+div.topline-section4{
+   float: center;
+   color: black;
+   text-align: center;
+   margin-top: 5%;
+   margin-bottom: 5%;
+   text-decoration: none;
+   font-size: 20px;  
+}
+
+div.mainline-section4 {
+ 
+  width: 500px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-auto;
+}
+
+.skill-container {
+  border: 2px solid orange;
+  width: 15%;
+  display: inline-block;
+  padding: 50px 30px;
+}
+
+.skills-wrapper {
+  text-align: center;
+}
+
+
+.number5{
+ 
+ padding-top:50px;
+ padding-bottom:50px; 
+ 
+ background-image: url(pic7.jpg);
+ background-size: cover;
+}
+
+
+.contact-title {
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  letter-spacing: 10px;
+  margin-bottom: 100px;
+  word-spacing:30px;
+}
+
+
+
+
+input,
+textarea {
+
+  color: orange;
+  background-color: black;
+  padding: 20px;
+  border: blue;
+  font-size: 12px;
+  width:100%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+}
+
+ textarea{
+ width:50%;
+}
+
+.form-content {
+
+text-align: center;
+
+  
+}
+
+.bar-1, 
+.bar-2 {
+  width: 25%;
+  display: inline-block;
+  margin-bottom: 50px;
+  
+  
+}
+
+
+.main-button-2{
+
+  background-color: grey;
+  border: 0;
+  color: white;
+  padding: 0px 60px;
+  display: block;
+  font-size: px;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+
+
+}
+
+a:hover {
+  background-color: #6A6E71;
+
+}
+
+
+
+.column1 {
+  width: 25%;
+  display:inline-block;
+}
+
+.column2 {
+  width:70%;
+  display:inline-block;
+  vertical-align:top;
+  padding-left: 1em;
+}
+
+
+
+.the-footer{
+background: black;
+padding: auto 0;
+margin: auto 0;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+
+.footer-menu-item a {
+  text-decoration: none;
+  text-transform: capitalize;
+  color: white;
+  display: inline-block;
+  padding-left: 85px;
+  padding-right: 85px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+ }
+ 
+ .footer-menu:{
+list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+ }
+
+.last-line-page-1{
+  font-style: italic;
+  color: white;
+  font-size: 12px;
+}
+
+.footer-menu-item{
+  
+  display: inline;
+}
